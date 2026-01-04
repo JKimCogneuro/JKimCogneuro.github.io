@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jinhee Kim</title>
+    <link>https://JKimCogneuro.github.io/post/</link>
+    <description>Recent content in Posts on Jinhee Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://JKimCogneuro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Index</title>
+      <link>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
+      <pubDate>Sun, 04 Jan 2026 17:51:09 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>창의도전기반연구기반 사업</title>
+      <link>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
+      <description>The project aims to investigate the neural mechanisms underlying social decision-making processes associated with depression, using multimodal neuroimaging and non-invasive brain stimulation methods.
+This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.</description>
+    </item>
+    
+    <item>
+      <title>The CAMH Discovery Fund</title>
+      <link>https://JKimCogneuro.github.io/post/awards_2018_discoveryfund/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/awards_2018_discoveryfund/</guid>
+      <description>I received a postdoctoral fellowship awarded by the Discovery Fund Talent Development Competition.</description>
+    </item>
+    
+    <item>
+      <title>Mimi and Charles Hollenberg Research Award</title>
+      <link>https://JKimCogneuro.github.io/post/awards_2018_mch/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/awards_2018_mch/</guid>
+      <description>I won an award at the annual Mimi and Charles Hollenberg Research Competition of the Department of Medicine of Mount Sinai Hospital and the University Health Network (the second prize for Category 4. Reports of research projects of a mechanistic mature).</description>
+    </item>
+    
+  </channel>
+</rss>
