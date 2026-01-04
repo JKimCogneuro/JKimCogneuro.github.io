@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PET on Jinhee Kim</title>
+    <link>https://JKimCogneuro.github.io/tags/pet/</link>
+    <description>Recent content in PET on Jinhee Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://JKimCogneuro.github.io/tags/pet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fatty acid amide hydrolase binding is inversely correlated with amygdalar functional connectivity: a combined positron emission tomography and magnetic resonance imaging study in healthy individuals</title>
+      <link>https://JKimCogneuro.github.io/publication/202103_kim1_jpn/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202103_kim1_jpn/</guid>
+      <description>† These authors contributed equally to this work.</description>
+    </item>
+    
+  </channel>
+</rss>

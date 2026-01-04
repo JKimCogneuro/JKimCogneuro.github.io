@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rs-fMRI on Jinhee Kim</title>
+    <link>https://JKimCogneuro.github.io/tags/rs-fmri/</link>
+    <description>Recent content in Rs-fMRI on Jinhee Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://JKimCogneuro.github.io/tags/rs-fmri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributions of sex, depression, and cognition on brain connectivity dynamics in Parkinson’s disease</title>
+      <link>https://JKimCogneuro.github.io/publication/202112_diezcirarda_npj/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202112_diezcirarda_npj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatty acid amide hydrolase binding is inversely correlated with amygdalar functional connectivity: a combined positron emission tomography and magnetic resonance imaging study in healthy individuals</title>
+      <link>https://JKimCogneuro.github.io/publication/202103_kim1_jpn/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202103_kim1_jpn/</guid>
+      <description>† These authors contributed equally to this work.</description>
+    </item>
+    
+    <item>
+      <title>Anxiety in Parkinson&#39;s disease: Abnormal resting activity and connectivity</title>
+      <link>https://JKimCogneuro.github.io/publication/202102_mcriaud_brainres/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202102_mcriaud_brainres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disrupted salience network dynamics in Parkinson&#39;s disease patients with impulse control disorders</title>
+      <link>https://JKimCogneuro.github.io/publication/202001_irene_prd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202001_irene_prd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

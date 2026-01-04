@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jinhee Kim</title>
+    <link>https://JKimCogneuro.github.io/post/</link>
+    <description>Recent content in Posts on Jinhee Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://JKimCogneuro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The CAMH Discovery Fund</title>
+      <link>https://JKimCogneuro.github.io/post/awards_2018_discoveryfund/</link>
+      <pubDate>Sun, 01 Jul 2018 19:04:31 -0400</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/awards_2018_discoveryfund/</guid>
+      <description>I received a postdoctoral fellowship awarded by the Discovery Fund Talent Development Competition.</description>
+    </item>
+    
+    <item>
+      <title>Mimi and Charles Hollenberg Research Award</title>
+      <link>https://JKimCogneuro.github.io/post/awards_2018_mch/</link>
+      <pubDate>Wed, 06 Jun 2018 17:39:12 -0400</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/awards_2018_mch/</guid>
+      <description>I won an award at the annual Mimi and Charles Hollenberg Research Competition of the Department of Medicine of Mount Sinai Hospital and the University Health Network (the second prize for Category 4. Reports of research projects of a mechanistic mature).</description>
+    </item>
+    
+  </channel>
+</rss>
