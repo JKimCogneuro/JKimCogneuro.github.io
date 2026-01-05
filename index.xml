@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Neural Correlates of Early- and Late-Onset Nonsuicidal Self-Injury: Distinctions in Resting-State Functional Connectivity</title>
+      <link>https://JKimCogneuro.github.io/publication/review3_nnsi/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/review3_nnsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiac Signatures of Social Feedback-Induced Bias: Insights from Inter-Subject Representational Similarity Analysis</title>
+      <link>https://JKimCogneuro.github.io/publication/review2_se/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/review2_se/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Comparison During Social Evaluation: Experimental Study With a Smartphone App and Wearable Devices</title>
+      <link>https://JKimCogneuro.github.io/publication/review1_sc/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/review1_sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neural representations in MPFC and insula encode individual differences in estimating others’ preferences</title>
       <link>https://JKimCogneuro.github.io/publication/202505_hkang_scan/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0900</pubDate>
@@ -127,33 +154,6 @@ This project aims to investigate the neural mechanisms underlying social decisio
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/publication/202001_irene_prd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The interaction between neuroinflammation and beta-amyloid in cognitive decline in Parkinson&#39;s disease</title>
-      <link>https://JKimCogneuro.github.io/publication/202001_cg_mon/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/202001_cg_mon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Patterns of Beta-Amyloid Deposition in Parkinson&#39;s Disease</title>
-      <link>https://JKimCogneuro.github.io/publication/201911_kim_molneurol/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/201911_kim_molneurol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DRD2 Genotype-Based Variants Modulates D2 Receptor Distribution in Ventral Striatum</title>
-      <link>https://JKimCogneuro.github.io/publication/201909_mikaeel_molneuro/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/201909_mikaeel_molneuro/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://JKimCogneuro.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>0</title>
+      <link>https://JKimCogneuro.github.io/publication_types/0/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication_types/0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2</title>
@@ -18,6 +27,15 @@
       <pubDate>Wed, 14 May 2025 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://JKimCogneuro.github.io/publication_types/3/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
