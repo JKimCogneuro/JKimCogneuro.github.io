@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Index</title>
-      <link>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
-      <pubDate>Sun, 04 Jan 2026 17:51:09 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neural representations in MPFC and insula encode individual differences in estimating others’ preferences</title>
       <link>https://JKimCogneuro.github.io/publication/202505_hkang_scan/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0900</pubDate>
@@ -44,6 +35,22 @@
       
       <guid>https://JKimCogneuro.github.io/publication/202408_spark_plosdh/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Awarded an Individual Basic Research Grant(24&#39;-26&#39;)</title>
+      <link>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
+      <description>&lt;p&gt;Jinhee Kim, a research professor in the LSD Lab at Korea University, has been awarded an Individual Basic Research Project to support an independent research study on social decision-making associated with interoception.&lt;/p&gt;
+
+&lt;p&gt;This project aims to investigate the neural mechanisms of social decision-making through an integrated brain–body interaction framework. By combining multimodal neuroimaging and physiological measurements, the study examines how interoceptive sensitivity grounded in brain–body dynamics shapes social decision-making processes.&lt;/p&gt;
+
+&lt;p&gt;Using machine learning–based integrative analyses, the project seeks to identify individual-specific neural and physiological markers associated with social cognitive behavior. Furthermore, causal modeling approaches will be applied to elucidate predictive factors underlying social decision-making variability. Based on these findings, the project aims to develop predictive models of social cognitive behavior and explore potential technological approaches for enhancing social cognition.&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -102,14 +109,15 @@
     </item>
     
     <item>
-      <title>창의도전기반연구기반 사업</title>
+      <title>Awarded an Individual Basic Research Grant(21&#39;-23&#39;)</title>
       <link>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
-      <description>&lt;p&gt;The project aims to investigate the neural mechanisms underlying social decision-making processes associated with depression, using multimodal neuroimaging and non-invasive brain stimulation methods.&lt;/p&gt;
+      <description>&lt;p&gt;Jinhee Kim, a research professor in the LSD Lab at Korea University, has been awarded an Individual Basic Research Project to support an independent research study on social decision-making in depression.
+This project aims to investigate the neural mechanisms underlying social decision-making processes associated with depression, using multimodal neuroimaging and non-invasive brain stimulation methods.&lt;/p&gt;
 
-&lt;p&gt;This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.&lt;/p&gt;
+&lt;p&gt;This research is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.&lt;/p&gt;
 </description>
     </item>
     
