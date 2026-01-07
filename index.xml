@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Awards_심리학회</title>
+      <link>https://JKimCogneuro.github.io/post/awards_%EC%8B%AC%EB%A6%AC%ED%95%99%ED%9A%8C/</link>
+      <pubDate>Mon, 05 Jan 2026 11:08:12 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/awards_%EC%8B%AC%EB%A6%AC%ED%95%99%ED%9A%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cardiac Signatures of Social Feedback-Induced Bias: Insights from Inter-Subject Representational Similarity Analysis</title>
       <link>https://JKimCogneuro.github.io/publication/review2_se/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0900</pubDate>
@@ -146,15 +155,6 @@ This project aims to investigate the neural mechanisms underlying social decisio
 
 &lt;p&gt;This research is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Disrupted salience network dynamics in Parkinson&#39;s disease patients with impulse control disorders</title>
-      <link>https://JKimCogneuro.github.io/publication/202001_irene_prd/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/202001_irene_prd/</guid>
-      <description></description>
     </item>
     
   </channel>
