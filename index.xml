@@ -11,16 +11,37 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cardiac Signatures of Social Feedback-Induced Bias: Insights from Inter-Subject Representational Similarity Analysis</title>
-      <link>https://JKimCogneuro.github.io/publication/review2_se/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0900</pubDate>
+      <title>Cardiac Entropy as a Correlate of Self-Esteem Imbalance in Daily Life: Wearable-Based Ecological Momentary Assessment Study</title>
+      <link>https://JKimCogneuro.github.io/publication/review_cardiac_entropy/</link>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0900</pubDate>
       
-      <guid>https://JKimCogneuro.github.io/publication/review2_se/</guid>
+      <guid>https://JKimCogneuro.github.io/publication/review_cardiac_entropy/</guid>
+      <description>&lt;p&gt;† Equal contribution (co-first authors): Jinhee Kim and Minyoung Kim.&lt;/p&gt;
+
+&lt;p&gt;* Corresponding author: Hackjin Kim.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural correlates of early- and late-onset nonsuicidal self-injury: Distinctions in resting-state functional connectivity</title>
+      <link>https://JKimCogneuro.github.io/publication/202610_moon_jad/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202610_moon_jad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social Comparison During Social Evaluation: Experimental Study With a Smartphone App and Wearable Devices</title>
+      <title>Cardiac dynamics during social evaluative feedback: Evidence from intersubject representational similarity analysis</title>
+      <link>https://JKimCogneuro.github.io/publication/202610_jkim_biolpsychol/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/publication/202610_jkim_biolpsychol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Responses to Social Comparison: Individual Differences in Comparison Sensitivity</title>
       <link>https://JKimCogneuro.github.io/publication/review1_sc/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0900</pubDate>
       
@@ -43,15 +64,6 @@
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/publication/202503_jkim_frontinpsy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Correlates of Early- and Late-Onset Nonsuicidal Self-Injury: Distinctions in Resting-State Functional Connectivity</title>
-      <link>https://JKimCogneuro.github.io/publication/review3_nnsi/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/review3_nnsi/</guid>
       <description></description>
     </item>
     
@@ -146,15 +158,6 @@ This project aims to investigate the neural mechanisms underlying social decisio
 
 &lt;p&gt;This research is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Disrupted salience network dynamics in Parkinson&#39;s disease patients with impulse control disorders</title>
-      <link>https://JKimCogneuro.github.io/publication/202001_irene_prd/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
-      
-      <guid>https://JKimCogneuro.github.io/publication/202001_irene_prd/</guid>
-      <description></description>
     </item>
     
   </channel>
