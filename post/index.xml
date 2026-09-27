@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jinhee Kim</title>
+    <title>Research news on Jinhee Kim</title>
     <link>https://JKimCogneuro.github.io/post/</link>
-    <description>Recent content in Posts on Jinhee Kim</description>
+    <description>Recent content in Research news on Jinhee Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,23 +13,33 @@
     
     
     <item>
-      <title>Awarded an Individual Basic Research Grant(24&#39;-26&#39;)</title>
+      <title>New research grant: Social disconnection</title>
+      <link>https://JKimCogneuro.github.io/post/2026_social_disconnection/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://JKimCogneuro.github.io/post/2026_social_disconnection/</guid>
+      <description>2026–2031 · Principal Investigator · KRW 500 million
+I received a five-year grant from the National Research Foundation of Korea to study social disconnection. The project combines neuroimaging with repeated assessments of everyday experience to develop prediction models and interventions informed by brain and behavior.</description>
+    </item>
+    
+    <item>
+      <title>Research grant: Interoception and social decision-making</title>
       <link>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/post/2024_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
-      <description>Jinhee Kim, a research professor in the LSD Lab at Korea University, has been awarded an Individual Basic Research Project to support an independent research study on social decision-making associated with interoception.
-This project aims to investigate the neural mechanisms of social decision-making through an integrated brain–body interaction framework. By combining multimodal neuroimaging and physiological measurements, the study examines how interoceptive sensitivity grounded in brain–body dynamics shapes social decision-making processes.</description>
+      <description>2023–2026 · Principal Investigator · KRW 210 million
+I received funding from the National Research Foundation of Korea to investigate how bodily signals influence social decision-making. This project combines neuroimaging and physiological measures to examine the role of interoception in how people respond to social feedback.</description>
     </item>
     
     <item>
-      <title>Awarded an Individual Basic Research Grant(21&#39;-23&#39;)</title>
+      <title>Research grant: Social decision-making in depression</title>
       <link>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0900</pubDate>
       
       <guid>https://JKimCogneuro.github.io/post/2021_%EC%97%B0%EA%B5%AC%EB%B9%84/</guid>
-      <description>Jinhee Kim, a research professor in the LSD Lab at Korea University, has been awarded an Individual Basic Research Project to support an independent research study on social decision-making in depression. This project aims to investigate the neural mechanisms underlying social decision-making processes associated with depression, using multimodal neuroimaging and non-invasive brain stimulation methods.
-This research is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education.</description>
+      <description>2020–2023 · Principal Investigator · KRW 195 million
+Supported by the National Research Foundation of Korea, this project examined how depression relates to the way people process social information and make decisions, using neuroimaging and non-invasive brain stimulation.</description>
     </item>
     
     <item>
