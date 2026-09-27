@@ -1,0 +1,62 @@
+:root { --ink: #18313f; --accent: #236568; --muted: #536771; --line: #d8e2e5; --paper: #f4f7f7; }
+body { color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; font-size: 17px; line-height: 1.7; }
+h1,h2,h3,h4,h5,h6 { color: var(--ink); font-family: inherit; font-weight: 600; line-height: 1.25; }
+a { color: var(--accent); }
+a:hover,a:focus { color: #123e41; text-decoration: underline; }
+a:focus-visible,summary:focus-visible,button:focus-visible { outline: 3px solid #bd7e32; outline-offset: 5px; }
+.navbar { background: #fff; border-bottom: 1px solid var(--line); box-shadow: none; }
+.navbar-default .navbar-brand,.navbar-default .navbar-nav>li>a { color: var(--ink); text-shadow: none; }
+.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li.active>a { color: var(--accent); background: transparent; }
+.navbar-default .navbar-toggle .icon-bar { background-color: var(--ink) !important; }
+.navbar-default .navbar-toggle { border-color: var(--line); }
+.navbar-brand { letter-spacing: .04em; font-size: 18px; }
+.home-section { padding: 76px 0; background: #fff; scroll-margin-top: 75px; }
+.home-section:nth-of-type(even) { background: var(--paper); }
+.container { max-width: 1120px; }
+#about { padding: 68px 0 38px; }
+.profile-hero { display: grid; grid-template-columns: minmax(0,1fr) 240px; gap: 76px; align-items: center; }
+.eyebrow { color: var(--accent); text-transform: uppercase; letter-spacing: .12em; font-size: 12px; font-weight: 700; margin: 0 0 18px; }
+.hero-copy h1 { font-size: clamp(38px,5vw,58px); letter-spacing: -.035em; margin: 0 0 15px; }
+.degree { display: inline-block; font-size: 19px; font-weight: 400; letter-spacing: 0; color: var(--muted); margin-left: 15px; }
+.hero-affiliation { font-size: 15px; color: var(--muted); line-height: 1.7; margin-bottom: 24px; }
+.hero-intro { font-size: 20px; line-height: 1.6; max-width: 640px; margin-bottom: 26px; }
+.hero-photo img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; object-position: center 25%; border-radius: 50%; }
+.profile-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.profile-button { display: inline-block; padding: 10px 17px; font-size: 14px; font-weight: 600; border: 1px solid var(--line); border-radius: 3px; }
+.profile-button.primary { background: var(--ink); border-color: var(--ink); color: #fff; }
+.profile-button:hover { background: #e8efef; text-decoration: none; }
+.profile-button.primary:hover { background: var(--accent); color: #fff; }
+.hero-email { display: inline-block; margin-top: 19px; font-size: 14px; }
+.profile-biography { border-top: 1px solid var(--line); margin-top: 44px; padding-top: 21px; }
+.profile-biography summary { cursor: pointer; font-size: 15px; font-weight: 600; width: fit-content; }
+.profile-biography summary::after { content: " +"; color: var(--accent); margin-left: 12px; }
+.profile-biography[open] summary::after { content: " −"; }
+.biography-copy { max-width: 840px; padding-top: 20px; }
+.biography-copy h1 { display: none; }
+.biography-copy p { font-size: 16px; }
+.profile-section-heading { margin-bottom: 32px; }
+.profile-section-heading h2 { font-size: 34px; letter-spacing: -.025em; margin: 0; }
+.research-topic { display: grid; grid-template-columns: 50px minmax(0,1fr); gap: 18px; border-top: 1px solid var(--line); padding: 28px 0; }
+.research-topic:last-child { padding-bottom: 0; }
+.topic-number { font-size: 16px; color: var(--accent); padding-top: 3px; }
+.research-topic h3 { margin: 0 0 12px; font-size: 23px; }
+.research-topic p { max-width: 800px; margin-bottom: 10px; }
+.research-topic .research-methods { font-size: 13px; color: var(--muted); margin-bottom: 0; }
+.publication-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 25px; }
+.text-link { font-size: 14px; font-weight: 600; }
+.featured-paper { display: grid; grid-template-columns: 210px minmax(0,1fr); gap: 40px; padding: 29px 0; border-top: 1px solid var(--line); }
+.paper-meta { display: flex; flex-direction: column; font-size: 15px; line-height: 1.5; gap: 5px; font-weight: 600; }
+.paper-meta span:last-child { font-size: 14px; color: var(--muted); font-weight: 400; }
+.paper-role { color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: .03em; margin: 0 0 9px; }
+.paper-content h3 { font-size: 21px; margin: 0 0 12px; }
+.paper-content h3 a { color: var(--ink); }
+.paper-note { font-size: 15px; color: var(--muted); margin: 0 0 14px; }
+.paper-links { display: flex; gap: 24px; font-size: 13px; font-weight: 600; }
+.paper-links a { text-decoration: underline; text-underline-offset: 3px; }
+#posts .section-heading h1,#contact .section-heading h1 { font-size: 30px; }
+#posts { padding: 55px 0; }
+#posts h3 { font-size: 19px; }
+.btn-primary,.btn-primary.btn-outline { border-color: var(--accent); color: var(--accent); }
+.btn-primary.btn-outline:hover { background-color: var(--accent); color: #fff; }
+@media (max-width: 991px) { .container { width: auto; margin: 0 28px; } .profile-hero { grid-template-columns: minmax(0,1fr) 200px; gap: 30px; } .hero-intro { font-size: 18px; } .featured-paper { grid-template-columns: 170px minmax(0,1fr); gap: 25px; } }
+@media (max-width: 600px) { .container { margin: 0; padding-left: 22px; padding-right: 22px; } .home-section { padding: 48px 0; } #about { padding-top: 34px; } .profile-hero { grid-template-columns: minmax(0,1fr); gap: 26px; } .hero-photo { grid-row: 1; width: 112px; } .hero-copy h1 { font-size: 40px; } .eyebrow { font-size: 10px; } .hero-affiliation { font-size: 14px; } .hero-intro { font-size: 18px; } .profile-button { padding: 9px 12px; font-size: 13px; } .profile-biography { margin-top: 30px; } .profile-section-heading h2 { font-size: 29px; } .research-topic { grid-template-columns: 25px minmax(0,1fr); gap: 12px; padding: 24px 0; } .research-topic h3 { font-size: 21px; } .research-topic p { font-size: 16px; } .publication-heading { display: block; } .publication-heading .text-link { display: inline-block; margin-top: 16px; } .featured-paper { display: block; } .paper-meta { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: 10px; margin-bottom: 13px; } .paper-content h3 { font-size: 20px; } }
